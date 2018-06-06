@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Hangman</string>
+    <string-array name="Countries">
+        <item>INDIA</item>
+        <item>PAKISTAN</item>
+        <item>BRAZIL</item>
+        <item>MALAYSIA</item>
+        <item>THAILAND</item>
+        <item>BANGLADESH</item>
+        <item>CHINA</item>
+        <item>BHUTAN</item>
+        <item>SRILANKA</item>
+        <item>FRANCE</item>
+        <item>SINGAPORE</item>
+        <item>AFGANISTAN</item>
+        <item>KENYA</item>
+        <item>RUSSIA</item>
+        <item>NETHERLAND</item>
+        <item>IRAN</item>
+        <item>MALAYSIA</item>
+        <item>AUSTRALIA</item>
+        <item>ARGENTINA</item>
+        <item>EGYPT</item>
+        <item>POLAND</item>
+        <item>Nigeria</item>
+        <item>Philippines</item>
+        <item>Turkey</item>
+        <item>DENMARK</item>
+    </string-array>
+    <string name="button_name">Check your Guess</string>
+</resources>
